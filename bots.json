@@ -1,0 +1,135 @@
+[
+  {
+    "id": 28661,
+    "name": "Helper",
+    "responds_to": "aaaaaaaaa",
+    "room": "ioutside",
+    "url": "https://NCSS-iOutside-Travel.goblincode.repl.co/help"
+  },
+  {
+    "id": 28662,
+    "name": "Events",
+    "responds_to": ".*([Ee]vents|[Ww]hat('?s| is).*on|anything.*on).*",
+    "room": "ioutside",
+    "url": "https://Event-bot.alexnichols.repl.co/necsus"
+  },
+  {
+    "id": 28663,
+    "name": "Weather",
+    "responds_to": "[Ww]eather",
+    "room": "ioutside",
+    "url": "https://syd1-weather.kayad.repl.co"
+  },
+  {
+    "id": 28818,
+    "name": "Directions Bot (do not remove)",
+    "responds_to": "[fF][rR][oO][mM] (?P<start>.*) [tT][oO] (?P<end>.*)",
+    "room": "ioutside",
+    "url": "https://ncss-ioutside-travel.goblincode.repl.co/route"
+  },
+  {
+    "id": 28849,
+    "name": "Availability",
+    "responds_to": "^[Aa]m [iI] .*(busy|free|available)",
+    "room": "ioutside",
+    "url": "https://schedule-bot.thr0waway.repl.co/free-now"
+  },
+  {
+    "id": 28851,
+    "name": "Events",
+    "responds_to": "([Ww]here.*|[Ww]hen.*)|([Dd]etail.*)",
+    "room": "ioutside",
+    "url": "https://Event-bot.alexnichols.repl.co/necsus/timeplace"
+  },
+  {
+    "id": 28853,
+    "name": "Events",
+    "responds_to": "^([yY]es.*|[Ss]ure.*|.*[oO][kK].*)",
+    "room": "ioutside",
+    "url": "https://Event-bot.alexnichols.repl.co/necsus/affirm"
+  },
+  {
+    "id": 28860,
+    "name": "Events",
+    "responds_to": "^([Nn]o|([Aa]nything|[Ww]hat).*else).*",
+    "room": "ioutside",
+    "url": "https://Event-bot.alexnichols.repl.co/necsus/deny"
+  },
+  {
+    "id": 3735928647,
+    "name": "Availability",
+    "responds_to": "([Ll]ast).*([Oo]utside)",
+    "room": "ioutside",
+    "url": "https://schedule-bot.thr0waway.repl.co/last-outside"
+  },
+  {
+    "id": 3735928649,
+    "name": "Availability",
+    "responds_to": "[Hh]oliday",
+    "room": "ioutside",
+    "url": "https://schedule-bot.thr0waway.repl.co/public-holiday"
+  },
+  {
+    "id": 3735928844,
+    "name": "Availability",
+    "responds_to": "^[Aa]m [iI] .*?(busy|free|available).*at.*?[^0-9]*(?P<hour>[0-9]+)?[^0-9]*(?P<mins>[0-9]+)?[^0-9]*(?P<secs>[0-9]+)?.*",
+    "room": "ioutside",
+    "url": "https://schedule-bot.thr0waway.repl.co/free-at-time"
+  },
+  {
+    "id": 3735928857,
+    "name": "Directions Bot",
+    "responds_to": "^[Hh]ow do [Ii] get there",
+    "room": "ioutside",
+    "url": "https://ncss-ioutside-travel.goblincode.repl.co/get_there"
+  },
+  {
+    "id": 3735929519,
+    "name": "Shutdown",
+    "responds_to": "(.*)shutdown(.*)",
+    "room": "ioutside",
+    "url": "https://ncss-ioutside-travel.goblincode.repl.co/shutdown"
+  },
+  {
+    "id": 3735929525,
+    "name": "Availability",
+    "responds_to": "^[Aa]m [iI] .*?(busy|free|available).*[tT]hen",
+    "room": "ioutside",
+    "url": "https://schedule-bot.thr0waway.repl.co/free-then"
+  },
+  {
+    "id": 3735929532,
+    "name": "help bot",
+    "responds_to": "^help schedule$",
+    "room": "ioutside",
+    "url": "https://schedule-bot.thr0waway.repl.co/help-schedule"
+  },
+  {
+    "id": 3735929533,
+    "name": "help bot",
+    "responds_to": "^help weather$",
+    "room": "ioutside",
+    "url": "https://schedule-bot.thr0waway.repl.co/help-weather"
+  },
+  {
+    "id": 3735929534,
+    "name": "help bot",
+    "responds_to": "^help event(s)?$",
+    "room": "ioutside",
+    "url": "https://schedule-bot.thr0waway.repl.co/help-events"
+  },
+  {
+    "id": 3735929535,
+    "name": "help bot",
+    "responds_to": "^help location$",
+    "room": "ioutside",
+    "url": "https://schedule-bot.thr0waway.repl.co/help-location"
+  },
+  {
+    "id": 3735929536,
+    "name": "help",
+    "responds_to": "^help$",
+    "room": "ioutside",
+    "url": "https://schedule-bot.thr0waway.repl.co/help"
+  }
+]
